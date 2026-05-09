@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  I build web systems, write about technology, and create original games inspired by liminal spaces, chaos, and survival.
+  I build web systems, write about technology, and create original games.
 </p>
 
 ---
@@ -71,7 +71,6 @@ It is a record of building, learning, writing, and surviving in the AI era.
 - Programming education
 - Blog and content creation
 - Original game development
-- Backrooms / liminal-space worldbuilding
 - Productivity and life management
 - Investment and future technology
 
@@ -81,7 +80,6 @@ It is a record of building, learning, writing, and surviving in the AI era.
 
 - Building original web applications
 - Operating and improving The End Council blog
-- Developing Backrooms-inspired games
 - Creating reusable development workflows
 - Using GitHub Issues and Projects for task management
 - Turning technical knowledge into articles, tools, and systems
