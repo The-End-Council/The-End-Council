@@ -125,21 +125,21 @@ It is a record of building, learning, writing, and surviving in the AI era.
 <details>
 <summary>My GitHub Stats</summary>
 
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=The-End-Council&theme=tokyo-night&custom_title=Activity%20Graph)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=The-End-Council&theme=tokyonight)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-End-Council&show_icons=true&hide_title=true&count_private=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-End-Council&layout=compact&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=The-End-Council&theme=tokyonight" />
 </p>
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=The-End-Council&theme=tokyo-night&custom_title=Activity%20Graph)
+<p align="center">
+  <img src="https://github-readme-stats1-mu-six.vercel.app/api?username=The-End-Council&show_icons=true&hide_title=true&count_private=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats1-mu-six.vercel.app/api/top-langs/?username=The-End-Council&layout=compact&theme=tokyonight" />
+</p>
 
 </details>
 
