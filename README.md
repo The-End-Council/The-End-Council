@@ -148,6 +148,17 @@ It is a record of building, learning, writing, and surviving in the AI era.
 </p>
 
 <p align="center">
+  <a href="https://x.com/The_End_Council">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/the_end_council/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://chaosblog.jp">
+    <img src="https://img.shields.io/badge/My%20Homepage-4285F4?style=for-the-badge&logo=homepage&logoColor=white" />
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/The-End-Council">
     <img
       src="https://img.shields.io/badge/GitHub-The--End--Council-000000?style=for-the-badge&logo=github&logoColor=white"
