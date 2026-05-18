@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  I building web systems, write about technology, and create original games.
+  I build web systems, write about technology, and create original games.
 </p>
 
 ---
